@@ -1,1 +1,1 @@
-cd C:\Users\victo\Downloads\00. Estudo Data Science\predict_payment_default && .\venv\Scripts\Activate
+cd C:\Users\victo\Downloads\00. Estudo Data Science\predict_payment_default && .\venv\Scripts\Activate && code .
